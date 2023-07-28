@@ -1,2 +1,1 @@
-# CureAll
-Multiple disease prediction landing page
+# Healthifer-Multimed
